@@ -1,8 +1,12 @@
 body{
     margin: 0px;
     padding: 0px;
+    color: white;
     background-color: blueviolet;
 }
 #icon{
     width: 50px;
+}
+.carousel-item img{
+    max-height: 100vh;
 }
